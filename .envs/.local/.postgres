@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=brainy_rats_app
+POSTGRES_USER=IdYbonRvNGpHGEmvXbDjrbhfqoaFkMQP
+POSTGRES_PASSWORD=G7AYjxvo1u8iO5HizwDJCeeoMawQTch5d03GPsuNOru2ys6plJKSQbaUkkmQlg04
