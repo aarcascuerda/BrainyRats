@@ -153,7 +153,6 @@ typings/
 
 ### VisualStudioCode template
 .vscode
-.settings.json
 .envs
 .mypy_cache
 
