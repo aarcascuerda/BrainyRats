@@ -2,5 +2,6 @@
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "/home/alex/DataSciendeMaster/BrainyRats/BrainyRats_venv/bin/python"
+    "python.pythonPath": "/home/alex/DataSciendeMaster/BrainyRats/BrainyRats_venv/bin/python",
+    "restructuredtext.confPath": "${workspaceFolder}/docs"
 }
